@@ -17,4 +17,4 @@
 <p>14- create view update_todo .</p>
 <p>15- create view todo_delete .</p>
 <p>16- create forms todo app "ToForm"</p>
-<img src="templates/note.jpg">
+
